@@ -1,0 +1,17 @@
+# OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# Python stuff
+*.egg
+*.egg-info
+*.pyc
+build/
+dist/
+
+# Editor & IDE files
+.idea/*
+*.swp
+*.swo
+*~
+\#*#
